@@ -83,10 +83,12 @@ The number of spaces in the indentation is variable, but all statements within t
 {% hint style="success" %}
 **Good to know:** Spaces or Tabs?&#x20;
 
-The recommended indentation is 4 spaces but tabs or spaces can be used so long as they are consistent.&#x20;
+The recommended indentation is 4 spaces but tabs or spaces can be used so long as they are consistent. The spacing should be even and uniform throughout.
 {% endhint %}
 
 {% hint style="danger" %}
-Do not mix tabs and spaces in Python as this will cause an error in Python 3 and can causes errors in Python 2.
+Do not mix tabs and spaces in Python as this will cause an error in Python 3 and can cause errors in Python 2.
+
+Improper indentation can cause an IndentationError or cause the program to do something unexpected.
 {% endhint %}
 
